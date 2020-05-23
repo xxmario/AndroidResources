@@ -38,7 +38,8 @@
 
 
 ## Tools or Plugins
-> Must have tools in order to improve your Android workflow
+> Must have tools in order to improve your Android workflow  
+
 | Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Description                                                     |
 | --------------------------------------------------------------------------------| ----------------------------------------------------------------|
 | [adb enhanced](https://github.com/ashishb/adb-enhanced)                           | Command line interface to trigger different device scenarious  |
